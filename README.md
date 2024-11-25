@@ -1,6 +1,4 @@
 - 👋 Hi, I’m M.Fedha
-- 👀 I’m interested in ...cyber security and ethical hacking
-- 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...exploration on kali linux
 - 📫 How to reach me ...mosesfedhak9@gmail.com
 
